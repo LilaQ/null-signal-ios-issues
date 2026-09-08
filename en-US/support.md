@@ -28,6 +28,14 @@ Your selection applies to new runs in the campaign, side jobs, contracts and pra
 
 The fourth tab, **Daemon**, lets you choose one of twelve terminal helpers. The alarm sentinel is available immediately; campaign completions unlock the others. Helpers report only already observed states, execute no commands and change neither alarm costs nor rank. `daemon` shows your active helper; `man daemon` explains the limits. Selections follow the same new-run rules as rig modules.
 
+## Credits and terminal styles
+
+`credits` shows your earned in-game currency and its rules. First campaign completions pay 180 credits; first side-job completions pay 90. Each first rated outcome of these operations adds 25 regardless of rank. Each complete archive thread pays 120. Each contract pays 60 on its first completion, 30 on its second, 15 on its third and nothing thereafter. Practice pays no credits. Existing completions are credited once; unknown earlier repetitions are not estimated.
+
+**Settings → Terminal style** offers 24 cosmetic variants. Your base style is free; every other variant displays its price in in-game credits. Once unlocked, selecting it again is free. Selections apply immediately in every workspace without changing active access or command drafts. Credits, unlocks and your selection are stored locally. A failed unlock is not charged if saving fails; you can retry saving.
+
+Credits cannot be bought with real money. Tools, privileges and solutions cost no credits. `man credits` explains the system in the game.
+
 ## Hidden correspondence
 
 Campaign systems contain twelve optional archive threads with 60 files in total. Three complete threads can be found in the free act. `ls` lists files on your current host; `cat` reads and `download` copies using normal access privileges and alarm costs. Read saved parts under **Archive → Correspondence**. Unseen texts and titles are not revealed. You may find the parts in any order.

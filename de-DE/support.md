@@ -28,6 +28,14 @@ Die Auswahl gilt für neue Läufe in Kampagne, Nebenaufträgen, Contracts und Tr
 
 Im vierten Reiter **Daemon** wählst du einen von zwölf Terminal-Helfern. Der Alarmwächter ist sofort verfügbar, weitere Helfer werden durch Kampagnenabschlüsse frei. Sie melden ausschließlich bereits beobachtete Zustände, führen keine Befehle aus und verändern weder Alarmkosten noch Rang. `daemon` zeigt den aktiven Helfer, `man daemon` erklärt die Grenzen. Die Auswahl folgt denselben Regeln für neue Läufe wie die Rig-Module.
 
+## Credits und Terminal-Stile
+
+`credits` zeigt die erspielte Spielwährung und ihre Regeln. Erste Kampagnenabschlüsse bringen 180 Credits, erste Nebenauftrag-Abschlüsse 90. Jeder erstmals gewertete Ausgang dieser Einsätze bringt weitere 25, unabhängig vom Rang. Jede vollständige Archivkette bringt 120. Jeder Contract zahlt beim ersten Abschluss 60, beim zweiten 30, beim dritten 15 und danach nichts. Training zahlt keine Credits. Bestehende Abschlüsse werden einmalig angerechnet; unbekannte frühere Wiederholungen werden nicht geschätzt.
+
+Unter **Einstellungen → Terminal-Stil** stehen 24 kosmetische Varianten bereit. Der Grundstil ist kostenlos; jede weitere Variante nennt ihren Preis in Spiel-Credits. Einmal freigeschaltet, kannst du sie kostenlos erneut auswählen. Die Auswahl gilt sofort in allen Arbeitsplätzen, ohne laufende Zugriffe oder Eingabeentwürfe zu ändern. Credits, Freischaltungen und die Auswahl werden lokal gespeichert. Bei einem Speicherfehler bleibt eine fehlgeschlagene Freischaltung unberechnet; du kannst das Speichern erneut versuchen.
+
+Credits sind nicht mit Echtgeld kaufbar. Werkzeuge, Rechte und Lösungen kosten keine Credits. `man credits` erklärt das System im Spiel.
+
 ## Verborgene Korrespondenz
 
 Die Kampagnensysteme enthalten zwölf optionale Archivketten mit insgesamt 60 Dateien. Drei Ketten sind vollständig im kostenlosen Akt auffindbar. `ls` zeigt Dateien am aktuellen Host; `cat` liest, `download` kopiert mit den normalen Zugriffsrechten und Alarmkosten. Unter **Archiv → Nebenkanäle** kannst du gesicherte Teile lesen. Ungesehene Texte und Titel werden nicht vorweggenommen. Die Reihenfolge der Funde ist frei.
