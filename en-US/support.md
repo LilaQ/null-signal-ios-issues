@@ -67,3 +67,7 @@ Progress, unfinished command drafts, history and settings are stored on your dev
 If the app reports a save error, do not delete it as your first troubleshooting step. Describe the message to support without attaching files. The app attempts to use readable local backup copies and does not intentionally overwrite an unknown or unreadable save.
 
 To remove local app data, delete the app in iOS/iPadOS Settings. **Offload App** keeps documents and data, so it does not erase them. Manage existing device backups separately in your backup settings. Deleting the app does not cancel a purchase. It also does not delete public GitHub posts you have written.
+
+## Mastery+
+
+After all 25 campaign completions, Mastery+ offers 25 hardened replays with changed access routes and optional objectives. Included in the same full game purchase, with its own archive. Each optional objective pays 75 credits on its first successful completion. Open Mastery+ in Settings. `man mastery-plus` explains the rules. Campaign decisions remain unchanged. Optional-goal bonuses are paid once when completing the operation; regular rewards are 90 credits for first completion and 25 for each first rated outcome. Copy the original proxy job before changing it: the downloaded bytes determine the goal.

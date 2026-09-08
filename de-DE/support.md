@@ -67,3 +67,7 @@ Fortschritt, Eingabeentwürfe, Verlauf und Einstellungen werden auf dem Gerät g
 Bei einem gemeldeten Speicherfehler lösche die App nicht als ersten Schritt. Beschreibe zunächst die Fehlermeldung im Support, ohne Dateien anzuhängen. Die App versucht lesbare lokale Sicherungen zu verwenden und überschreibt einen unbekannten oder nicht lesbaren Spielstand nicht absichtlich.
 
 Wenn du alle lokalen App-Daten entfernen möchtest, lösche die App über die iOS-/iPadOS-Einstellungen. **App auslagern** behält Dokumente und Daten und ist deshalb keine Datenlöschung. Bereits angelegte Gerätebackups verwaltest du separat in deinen Backup-Einstellungen. Das Löschen der App storniert keinen Kauf. Öffentlich verfasste GitHub-Beiträge werden dadurch ebenfalls nicht gelöscht.
+
+## Mastery+
+
+Nach allen 25 Kampagnenabschlüssen bietet Mastery+ 25 gehärtete Wiederholungen mit anderen Zugängen und Zusatzzielen. Im Vollversionskauf enthalten, mit eigenem Archiv. Das erste erfüllte Zusatzziel pro Operation bringt 75 Credits. Öffne Mastery+ in den Einstellungen. `man mastery-plus` erklärt die Regeln. Kampagnenentscheidungen bleiben unverändert. Zusatzziel-Boni werden beim Abschluss der Operation einmalig gebucht; regulär gibt es 90 Credits für den ersten Abschluss und 25 für jeden erstmals gewerteten Ausgang. Kopiere den ursprünglichen Proxy-Job vor seiner Änderung: Die heruntergeladenen Bytes entscheiden.
