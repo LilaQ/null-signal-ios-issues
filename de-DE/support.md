@@ -20,6 +20,10 @@ NULL//SIGNAL ist ein fiktives, lokal simuliertes Hacker-Spiel. Befehle arbeiten 
 
 Die Einstellungen erreichst du über `···`. Dort lassen sich Sprache, größere Schrift, Ton, Haptik und reduzierte Bewegung anpassen. Das Spiel unterstützt Deutsch und Englisch sowie eine Hardwaretastatur. Auf dem iPhone kannst du zwischen Terminal und Werkzeugansichten wechseln.
 
+## Freiwillige Mastery-Ränge
+
+Nach einem neuen Abschluss erhältst du C, B, A oder S. `mastery` zeigt die Grenzwerte pro Ausgang; `man mastery` erklärt sie. Die Wertung berücksichtigt aktive Eingriffe, insgesamt erzeugten Alarm, Checkpoint-Neustarts und Hinweisaufrufe. Lesen, Syntaxfehler und Denkzeit zählen nicht. Hinweise beeinflussen nur den freiwilligen Rang, niemals Storyfortschritt oder reguläre Belohnungen. Im Archiv bleiben beste Mastery und niedrigster Spitzenalarm getrennt erhalten. Alte Läufe bekommen keinen geschätzten Rang; eine Wiederholung erfasst die benötigten Werte.
+
 ## Kostenlose Operationen und Kampagnenkauf
 
 Die ersten acht Operationen sind kostenlos. Ein nicht verbrauchbarer In-App-Kauf schaltet die weiteren 17 dauerhaft frei. Es gibt kein Abo, keine Werbung und keine kaufbare Energie. Die Kampagne wird weiterhin durch Spielen freigeschaltet: Ein Kauf überspringt keine vorherigen Operationen.
