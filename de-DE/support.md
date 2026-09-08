@@ -20,6 +20,12 @@ NULL//SIGNAL ist ein fiktives, lokal simuliertes Hacker-Spiel. Befehle arbeiten 
 
 Die Einstellungen erreichst du über `···`. Dort lassen sich Sprache, größere Schrift, Ton, Haptik und reduzierte Bewegung anpassen. Das Spiel unterstützt Deutsch und Englisch sowie eine Hardwaretastatur. Auf dem iPhone kannst du zwischen Terminal und Werkzeugansichten wechseln.
 
+## Rig und neue Läufe
+
+Unter **Einstellungen → Rig** wählst du Module für Core, Relay und Analyzer. 18 Spezialisierungen werden durch Kampagnenabschlüsse freigeschaltet, unabhängig vom erreichten Rang. Vorteile und Nachteile verändern die Alarmkosten bestimmter Aktionen. Die Basisausrüstung ist jederzeit kostenlos verfügbar.
+
+Die Auswahl gilt für neue Läufe in Kampagne, Nebenaufträgen, Contracts und Training. `rig` zeigt die aktive Ausrüstung. Ein laufender Versuch behält sein Rig, auch nach `retry confirm`. Für einen vollständigen Neustart mit der neuen Auswahl gibst du `restart confirm` ein: Der laufende Versuch wird verworfen; erreichte Enden und die erste Kampagnenentscheidung bleiben erhalten. `man rig` erklärt die Einzelheiten.
+
 ## Freiwillige Mastery-Ränge
 
 Nach einem neuen Abschluss erhältst du C, B, A oder S. `mastery` zeigt die Grenzwerte pro Ausgang; `man mastery` erklärt sie. Die Wertung berücksichtigt aktive Eingriffe, insgesamt erzeugten Alarm, Checkpoint-Neustarts und Hinweisaufrufe. Lesen, Syntaxfehler und Denkzeit zählen nicht. Hinweise beeinflussen nur den freiwilligen Rang, niemals Storyfortschritt oder reguläre Belohnungen. Im Archiv bleiben beste Mastery und niedrigster Spitzenalarm getrennt erhalten. Alte Läufe bekommen keinen geschätzten Rang; eine Wiederholung erfasst die benötigten Werte.
