@@ -26,6 +26,8 @@ Open **Settings → Rig** to choose modules for Core, Relay and Analyzer. Campai
 
 Your selection applies to new runs in the campaign, side jobs, contracts and practice. `rig` shows the active equipment. An ongoing attempt keeps its rig, including after `retry confirm`. To restart the entire operation with your new selection, type `restart confirm`: the ongoing attempt is discarded; earned endings and your first campaign decision remain intact. `man rig` explains the details.
 
+The fourth tab, **Daemon**, lets you choose one of twelve terminal helpers. The alarm sentinel is available immediately; campaign completions unlock the others. Helpers report only already observed states, execute no commands and change neither alarm costs nor rank. `daemon` shows your active helper; `man daemon` explains the limits. Selections follow the same new-run rules as rig modules.
+
 ## Optional mastery ranks
 
 Each new completion earns C, B, A or S. `mastery` shows thresholds per outcome; `man mastery` explains them. Ratings consider active operations, total generated alarm, checkpoint restarts and hint requests. Reading, syntax errors and thinking time do not count. Hints affect only the optional rank, never story progress or regular rewards. The archive retains best mastery and lowest peak alarm separately. Older runs receive no estimated rank; a replay records the required values.

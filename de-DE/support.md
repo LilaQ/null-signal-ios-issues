@@ -26,6 +26,8 @@ Unter **Einstellungen → Rig** wählst du Module für Core, Relay und Analyzer.
 
 Die Auswahl gilt für neue Läufe in Kampagne, Nebenaufträgen, Contracts und Training. `rig` zeigt die aktive Ausrüstung. Ein laufender Versuch behält sein Rig, auch nach `retry confirm`. Für einen vollständigen Neustart mit der neuen Auswahl gibst du `restart confirm` ein: Der laufende Versuch wird verworfen; erreichte Enden und die erste Kampagnenentscheidung bleiben erhalten. `man rig` erklärt die Einzelheiten.
 
+Im vierten Reiter **Daemon** wählst du einen von zwölf Terminal-Helfern. Der Alarmwächter ist sofort verfügbar, weitere Helfer werden durch Kampagnenabschlüsse frei. Sie melden ausschließlich bereits beobachtete Zustände, führen keine Befehle aus und verändern weder Alarmkosten noch Rang. `daemon` zeigt den aktiven Helfer, `man daemon` erklärt die Grenzen. Die Auswahl folgt denselben Regeln für neue Läufe wie die Rig-Module.
+
 ## Freiwillige Mastery-Ränge
 
 Nach einem neuen Abschluss erhältst du C, B, A oder S. `mastery` zeigt die Grenzwerte pro Ausgang; `man mastery` erklärt sie. Die Wertung berücksichtigt aktive Eingriffe, insgesamt erzeugten Alarm, Checkpoint-Neustarts und Hinweisaufrufe. Lesen, Syntaxfehler und Denkzeit zählen nicht. Hinweise beeinflussen nur den freiwilligen Rang, niemals Storyfortschritt oder reguläre Belohnungen. Im Archiv bleiben beste Mastery und niedrigster Spitzenalarm getrennt erhalten. Alte Läufe bekommen keinen geschätzten Rang; eine Wiederholung erfasst die benötigten Werte.
