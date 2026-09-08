@@ -24,6 +24,10 @@ Die Einstellungen erreichst du über `···`. Dort lassen sich Sprache, größe
 
 Die ersten acht Operationen sind kostenlos. Ein nicht verbrauchbarer In-App-Kauf schaltet die weiteren 17 dauerhaft frei. Es gibt kein Abo, keine Werbung und keine kaufbare Energie. Die Kampagne wird weiterhin durch Spielen freigeschaltet: Ein Kauf überspringt keine vorherigen Operationen.
 
+Über **Einstellungen → Auftragsbörse** findest du außerdem 36 Nebenaufträge: zwölf kostenlos und 24 im selben Vollversionskauf enthalten. Jeder Auftrag nennt den erforderlichen Kampagnenabschluss. Gesperrte Briefings kannst du schon vorher lesen. Die Auftragsart lässt sich in der Börse wechseln. Nebenaufträge speichern ihre Läufe und Ausgänge unabhängig von der Kampagne.
+
+Die 15 **Übungsnetze** in den Einstellungen sind kostenlos und sofort wählbar. Ihre eigenen Spielstände verändern weder Kampagnenfortschritt noch Kampagnenerfolge.
+
 Öffne **Vollversion → Käufe wiederherstellen**, wenn ein bereits gekaufter Zugang fehlt. Verwende den Apple-Account, mit dem du gekauft hast, und eine Verbindung zum App Store. Ein ausstehender Kauf wird nach Genehmigung automatisch übernommen. Bei einem Store-Ausfall bleiben kostenlose Operationen und von Apple lokal bestätigte Käufe spielbar. Neue Käufe und Wiederherstellungen benötigen eine Verbindung zum App Store.
 
 Nach einer Erstattung oder einem anderen Wegfall der Kaufberechtigung ist der zusätzliche Inhalt gesperrt. Die zugehörigen Spielstände werden nicht gelöscht. Apple entscheidet über [Erstattungsanfragen](https://support.apple.com/de-de/118223).

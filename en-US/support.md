@@ -24,6 +24,10 @@ Open settings with `···` to change language, larger text, sound, haptics and 
 
 The first eight operations are free. One non-consumable in-app purchase permanently unlocks the remaining 17. There is no subscription, advertising or purchasable energy. You still progress through the campaign by playing: buying does not skip earlier operations.
 
+Open **Settings → Job board** for 36 additional side jobs: twelve free and 24 included in the same full game purchase. Each job lists its required campaign completion. Locked briefings can already be read. Change the job type in the board to filter the list. Side jobs save their runs and outcomes independently of the campaign.
+
+The 15 **Practice networks** in Settings are free and immediately selectable. Their separate saves affect neither campaign progress nor campaign achievements.
+
 Open **Full game → Restore purchases** if a previously purchased unlock is missing. Use the Apple Account used for the purchase and a connection to the App Store. Pending purchases unlock automatically after approval. During a store outage, free operations and purchases already verified locally by Apple remain playable. New purchases and restoration require an App Store connection.
 
 After a refund or another loss of purchase entitlement, the additional content is locked. Its saved progress is not deleted. Apple handles [refund requests](https://support.apple.com/en-us/118223).
