@@ -26,6 +26,8 @@ Die ersten acht Operationen sind kostenlos. Ein nicht verbrauchbarer In-App-Kauf
 
 Über **Einstellungen → Auftragsbörse** findest du außerdem 36 Nebenaufträge: zwölf kostenlos und 24 im selben Vollversionskauf enthalten. Jeder Auftrag nennt den erforderlichen Kampagnenabschluss. Gesperrte Briefings kannst du schon vorher lesen. Die Auftragsart lässt sich in der Börse wechseln. Nebenaufträge speichern ihre Läufe und Ausgänge unabhängig von der Kampagne.
 
+Unter **Einstellungen → Contracts** stehen außerdem 50 wiederholbare Varianten bereit. Zwanzig sind kostenlos, 30 im Vollversionskauf enthalten. Die Varianten kombinieren verschiedene Zugangsmodelle mit unterschiedlichen Zielbedingungen. Der jeweils erforderliche Kampagnenabschluss steht am Contract. Auch diese Läufe besitzen eigene Spielstände und ein eigenes Archiv.
+
 Die 15 **Übungsnetze** in den Einstellungen sind kostenlos und sofort wählbar. Ihre eigenen Spielstände verändern weder Kampagnenfortschritt noch Kampagnenerfolge.
 
 Öffne **Vollversion → Käufe wiederherstellen**, wenn ein bereits gekaufter Zugang fehlt. Verwende den Apple-Account, mit dem du gekauft hast, und eine Verbindung zum App Store. Ein ausstehender Kauf wird nach Genehmigung automatisch übernommen. Bei einem Store-Ausfall bleiben kostenlose Operationen und von Apple lokal bestätigte Käufe spielbar. Neue Käufe und Wiederherstellungen benötigen eine Verbindung zum App Store.

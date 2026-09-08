@@ -26,6 +26,8 @@ The first eight operations are free. One non-consumable in-app purchase permanen
 
 Open **Settings → Job board** for 36 additional side jobs: twelve free and 24 included in the same full game purchase. Each job lists its required campaign completion. Locked briefings can already be read. Change the job type in the board to filter the list. Side jobs save their runs and outcomes independently of the campaign.
 
+**Settings → Contracts** provides 50 replayable variants. Twenty are free; 30 are included in the full game purchase. Variants combine different access models with different operational objectives. Each contract lists its required campaign completion. These runs also have separate saves and their own archive.
+
 The 15 **Practice networks** in Settings are free and immediately selectable. Their separate saves affect neither campaign progress nor campaign achievements.
 
 Open **Full game → Restore purchases** if a previously purchased unlock is missing. Use the Apple Account used for the purchase and a connection to the App Store. Pending purchases unlock automatically after approval. During a store outage, free operations and purchases already verified locally by Apple remain playable. New purchases and restoration require an App Store connection.
