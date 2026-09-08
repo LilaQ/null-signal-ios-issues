@@ -28,6 +28,12 @@ Die Auswahl gilt für neue Läufe in Kampagne, Nebenaufträgen, Contracts und Tr
 
 Im vierten Reiter **Daemon** wählst du einen von zwölf Terminal-Helfern. Der Alarmwächter ist sofort verfügbar, weitere Helfer werden durch Kampagnenabschlüsse frei. Sie melden ausschließlich bereits beobachtete Zustände, führen keine Befehle aus und verändern weder Alarmkosten noch Rang. `daemon` zeigt den aktiven Helfer, `man daemon` erklärt die Grenzen. Die Auswahl folgt denselben Regeln für neue Läufe wie die Rig-Module.
 
+## Verborgene Korrespondenz
+
+Die Kampagnensysteme enthalten zwölf optionale Archivketten mit insgesamt 60 Dateien. Drei Ketten sind vollständig im kostenlosen Akt auffindbar. `ls` zeigt Dateien am aktuellen Host; `cat` liest, `download` kopiert mit den normalen Zugriffsrechten und Alarmkosten. Unter **Archiv → Nebenkanäle** kannst du gesicherte Teile lesen. Ungesehene Texte und Titel werden nicht vorweggenommen. Die Reihenfolge der Funde ist frei.
+
+Archivkopien bleiben nach Checkpoint-Neustarts, Wiederholungen und einem Wegfall der Kaufberechtigung lesbar. Das stellt keine Dateien im zurückgesetzten Operations-Cache wieder her und verändert weder Enden noch Freischaltungen. Lesen allein legt keine Archivkopie an. `man deadletters` erklärt die Unterschiede.
+
 ## Freiwillige Mastery-Ränge
 
 Nach einem neuen Abschluss erhältst du C, B, A oder S. `mastery` zeigt die Grenzwerte pro Ausgang; `man mastery` erklärt sie. Die Wertung berücksichtigt aktive Eingriffe, insgesamt erzeugten Alarm, Checkpoint-Neustarts und Hinweisaufrufe. Lesen, Syntaxfehler und Denkzeit zählen nicht. Hinweise beeinflussen nur den freiwilligen Rang, niemals Storyfortschritt oder reguläre Belohnungen. Im Archiv bleiben beste Mastery und niedrigster Spitzenalarm getrennt erhalten. Alte Läufe bekommen keinen geschätzten Rang; eine Wiederholung erfasst die benötigten Werte.

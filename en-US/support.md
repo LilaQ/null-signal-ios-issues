@@ -28,6 +28,12 @@ Your selection applies to new runs in the campaign, side jobs, contracts and pra
 
 The fourth tab, **Daemon**, lets you choose one of twelve terminal helpers. The alarm sentinel is available immediately; campaign completions unlock the others. Helpers report only already observed states, execute no commands and change neither alarm costs nor rank. `daemon` shows your active helper; `man daemon` explains the limits. Selections follow the same new-run rules as rig modules.
 
+## Hidden correspondence
+
+Campaign systems contain twelve optional archive threads with 60 files in total. Three complete threads can be found in the free act. `ls` lists files on your current host; `cat` reads and `download` copies using normal access privileges and alarm costs. Read saved parts under **Archive → Correspondence**. Unseen texts and titles are not revealed. You may find the parts in any order.
+
+Archive copies remain readable after checkpoint restarts, replays and loss of purchase entitlement. This does not restore files to a rewound operation cache or change endings or unlocks. Reading alone creates no archive copy. `man deadletters` explains the distinction.
+
 ## Optional mastery ranks
 
 Each new completion earns C, B, A or S. `mastery` shows thresholds per outcome; `man mastery` explains them. Ratings consider active operations, total generated alarm, checkpoint restarts and hint requests. Reading, syntax errors and thinking time do not count. Hints affect only the optional rank, never story progress or regular rewards. The archive retains best mastery and lowest peak alarm separately. Older runs receive no estimated rank; a replay records the required values.
